@@ -61,7 +61,7 @@ Click WA logo to Join Support Group 👇
 Click on my logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/EsUwk951gzgL4FHWRxY4tt" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/EsUwk951gzgL4FHWRxY4tt" target="blank"><img align="center" src="tbc.png" alt="PNG" height="200" width="200" /></a>
 </p>
     
 ## Setup
