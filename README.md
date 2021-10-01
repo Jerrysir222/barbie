@@ -61,7 +61,7 @@ Click WA logo to Join Support Group 👇
 Click on my logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/EsUwk951gzgL4FHWRxY4tt" target="blank"><img align="center" src="tbc.png" alt="PNG" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/EsUwk951gzgL4FHWRxY4tt" target="blank"><img align="center" src="tbc.jpg" alt="JPG" height="200" width="200" /></a>
 </p>
     
 ## Setup
@@ -101,8 +101,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/Jerrysir222/barbie
+$ cd barbie
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -115,20 +115,21 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Pikachu executives do not accept responsibility.
-By establishing the Pikachu, you are deemed to have accepted these responsibilities.
+Absolutely, Barbie bot executives do not accept responsibility.
+By establishing the Barbie bot, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developers
   <div align="center">
     
-  [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![Jerry ser](https://github.com/Jerrysir222.png?size=100)](https://github.com/Jerrysir222) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----|----
-[Ameer Suhail](https://github.com/ameer-kallumthodi) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[TBC JERRY]
+(https://github.com/Jerrysir222) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
-
+ALL CREDIT GOES TO AMEER KALLUMTHODI
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
 
