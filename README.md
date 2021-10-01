@@ -1,6 +1,6 @@
 <a href="https://bit.ly/3koZRGY"><img src="https://fontmeme.com/permalink/211001/b636707a076fba3fcdc524f8763b9f97.png" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="https://media.giphy.com/media/12r4pHjvAOv48o/giphy.gif" alt="GIF" width="250" height="200"/>
+        <img src="doll.jpg" alt="JPG" width="250" height="200"/>
 </p>
 
 <div align="center">
