@@ -29,19 +29,20 @@ Project created by <a href="https://github.com/Jerrysir222">Jerry-ser</a> to mak
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/ameer_.su_hail?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://www.instagram.com/p/CS_0HcjHE2M/?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
-<h4 align="center">Support Video For Deploy Bot 👇:</h4>
+<h4 align="center">Support channel
+        👇:</h4>
 <p align="center">
-<a href="https://youtu.be/_D4ZYuUSXjs" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+<a href="https://youtube.com/channel/UClhrCK46MWPHZdZUGkitKug" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 </p>
   
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameer-kallumthodi&show_icons=true&theme=dark&locale=en" alt="ameer-kallumthodi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jerrysir222&show_icons=true&theme=dark&locale=en" alt="ameer-kallumthodi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-kallumthodi&theme=dark" alt="ameer-kallumthodi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jerry-ser&theme=dark" alt="Jerrysir222" /></p>
 </p>
 
 
@@ -51,16 +52,16 @@ Project created by <a href="https://github.com/Jerrysir222">Jerry-ser</a> to mak
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/FY5rW7tPVEm9hpRRgHAY6f" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
 ## 
-  <h3 align="center">📢 Support Group 2:</h3>
+  <h3 align="center">📢 Support Free Fire group:</h3>
 <p align="center">
 Click Pikachu logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/EsUwk951gzgL4FHWRxY4tt" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
@@ -70,7 +71,7 @@ Click Pikachu logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/Jerrysir222/Barbie.git)
      </div>
 <br>
 <br >
@@ -90,7 +91,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ameer-kallumthodi/pikachu
+$ git clone https://github.com/Jerrysir222/barbie
 $ cd pikachu
 $ chmod +x *
 $ npm install @adiwajshing/baileys
