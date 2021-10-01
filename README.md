@@ -52,13 +52,13 @@ Project created by <a href="https://github.com/Jerrysir222">Jerry-ser</a> to mak
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/FY5rW7tPVEm9hpRRgHAY6f" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/EsUwk951gzgL4FHWRxY4tt" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
 ## 
   <h3 align="center">📢 Support Free Fire group:</h3>
 <p align="center">
-Click Pikachu logo to Join Support Group 2👇
+Click on my logo to Join Support Group 2👇
     <br>
 <br>
   <a href="https://chat.whatsapp.com/EsUwk951gzgL4FHWRxY4tt" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
